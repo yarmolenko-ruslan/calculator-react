@@ -1,0 +1,13 @@
+.function-button {
+  background-color: #fe9e09;
+  color: #fff;
+
+  &:hover {
+    background-color: #ffc366;
+  }
+
+  &:focus {
+    background-color: #fff;
+    color: #fe9e09;
+  }
+}

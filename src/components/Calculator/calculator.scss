@@ -1,0 +1,19 @@
+.calculator {
+  margin: 20px auto;
+  max-width: 350px;
+  width: 100%;
+  height: 650px;
+  background-color: #000;
+  border-radius: 40px;
+  padding: 20px;
+  padding-top: 110px;
+}
+
+.number-box {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 70px 70px 70px 70px;
+  gap: 10px;
+}
+
+

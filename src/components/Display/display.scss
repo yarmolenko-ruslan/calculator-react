@@ -1,0 +1,13 @@
+.display {
+  font-size: 70px;
+  font-weight: 300;
+  height: 111px;
+  color: #fff;
+  text-align: right;
+  padding: 15px;
+
+  &_small {
+    font-size: 36px;
+    padding-top: 43px;
+  }
+}
